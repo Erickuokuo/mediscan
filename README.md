@@ -94,46 +94,6 @@
 
 ---
 
-## 🚀 Getting Started
-
-### 1️⃣ Clone the Repository
-```sh
-git clone https://github.com/Erickuokuo/mediscan.git
-cd mediscan
-```
-
-### 2️⃣ Install Dependencies
-```sh
-npm install
-# or
-yarn install
-```
-
-### 3️⃣ Run the Application
-```sh
-npm start
-# or
-yarn start
-```
-
-### 4️⃣ Running on a Device/Emulator
-- **iOS:** Requires Xcode
-- **Android:** Use Android Studio or a physical device
-
-```sh
-npx react-native run-ios  # For iOS
-npx react-native run-android  # For Android
-```
-
----
-
-## 🛠️ Future Enhancements
-- **Pill Identification:** Implement AI-based pill recognition using image classification.
-- **Multi-user Support:** Enable medication tracking for multiple users (e.g., caregivers).
-- **Export Data:** Allow users to generate and share medication adherence reports.
-
----
-
 ## 📄 License
 This project is licensed under the MIT License.
 
